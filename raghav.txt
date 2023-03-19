@@ -1,21 +1,21 @@
 <span id="a">Raghav@Raghav-byte</span>:<span id="b">~</span><span id="c">$</span> cd Raghav/About_Raghav.txt <br>
 <span id="a">Raghav@Raghav-byte</span>:<span id="b">~</span><span id="c">$</span> cat About_Raghav.txt<br/><br/>
-"<span id="k">Code is like humor. When you have to explain it, it’s bad </span>"
+<span id="k">Code is like humor. When you have to explain it, it’s bad </span>"
 <br>
 
 Hey There! My name is Raghav Shukla.
 <p> Currently, i'm working as a backend developer at Isthara Pvt. Ltd.</p>
 
 <p>I love to code, watch animes and reading ..</p> 
-
 <p> You can download my Resume from here : <a href ="https://drive.google.com/file/d/1nitCBRxZT-oqxyXdslSjVW3g6ORxHmqk/view" target="_blank">Raghav's Resume</a> </p>
-<p> You can visit my other profiles, here: <br> 
+<p> You can visit my other profiles, here:
+<span>
 <a href="https://www.linkedin.com/in/raghav-byte/" target="_blank" >LinkedIn</a>
 <a href="https://github.com/Raghav-byte" target="_blank" >GitHub</a>
 <a href="https://www.hackerrank.com/raghav_byte" target="_blank" >HackerRank</a>
 <a href="https://dev.to/raghavbyte" target="_blank" >Dev</a> 
 <a href="https://www.instagram.com/raghav_shukl/" target="_blank"> Instagram </a> </p>
-
+</span>
 If you would like to get in touch with me, feel free to send me an email at <a href="mailto: shuklaraghav321@gmail.com">shuklaraghav321@gmail.com</a>
 
 <p>Have a great Day , Cheers!! </p>
