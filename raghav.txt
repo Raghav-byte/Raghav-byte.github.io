@@ -4,10 +4,10 @@
 <br>
 
 Hey There! My name is Raghav Shukla.
-<p> Currently, I'm working as a Java Backend Developer at Isthara Pvt. Ltd. I'm having 1 year experience in Spring boot and MongoDB</p>
+<p> Currently, I'm working as a Backend Developer at LetsMobility Software Solutions. I'm having 2+ year experience in Java , Python , MongoDb , etc</p>
 
-<p>I love to code, watch animes and read ...</p> 
-<p> You can download my Resume from here : <a href ="https://drive.google.com/file/d/1nitCBRxZT-oqxyXdslSjVW3g6ORxHmqk/view" target="_blank">Raghav's Resume</a> </p>
+<p>I love to code, read and play chess...</p> 
+<p> You can download my Resume from here : <a href ="https://drive.google.com/file/d/1fuCrINCyiV3b_Em7mmBaFaNBdMasfoDc/view?usp=sharing" target="_blank">Raghav's Resume</a> </p>
 <p> You can visit my other profiles, here:
 <span>
 <a href="https://www.linkedin.com/in/raghav-byte/" target="_blank" >LinkedIn</a>
