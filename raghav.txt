@@ -17,7 +17,7 @@
 <p>Feel free to visit my profiles:</p>
 <ul>
     <li><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank">🔗 LinkedIn</a></li>
-    <li><a href="https://github.com/Raghav-byte" target="_blank">🐱 GitHub</a></li>
+    <li><a href="https://github.com/Raghav-byte" target="_blank">🐙 GitHub</a></li>
     <li><a href="https://dev.to/raghavbyte" target="_blank">📝 Dev.to</a></li>
     <li><a href="https://www.instagram.com/raghav_shukl/" target="_blank">📸 Instagram</a></li>
 </ul>
