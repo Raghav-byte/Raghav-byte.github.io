@@ -7,24 +7,14 @@
 
 <h1>👋 Hey There! I'm Raghav Shukla</h1>
 
-<p>
-    Currently, I'm a Software Engineer at <strong>LetsMobility Software Solutions</strong>, with over <strong>2 years of experience</strong> in technologies like <strong>Java</strong>, <strong>Springboot</strong>, <strong>Python</strong>, <strong>Django</strong> and <strong>MongoDB</strong>.
-</p>
-
-<p>
-    I have a passion for coding and enjoy reading and playing chess in my free time. 🧩
-</p>
-
-<p>
-    You can download my resume from the link below:
-    <br>
+<p>Currently, I'm a Software Engineer at <strong>LetsMobility Software Solutions</strong>, with over <strong>2 years of experience</strong> in technologies like <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Python</strong>, <strong>Django</strong>, and <strong>MongoDB</strong>.</p>
+<p>I have a passion for coding 💻, and I enjoy reading 📚 and playing chess ♟️ in my free time.</p>
+<p>You can download my resume from the link below:<br>
     <a href="https://drive.google.com/file/d/1fuCrINCyiV3b_Em7mmBaFaNBdMasfoDc/view?usp=sharing" target="_blank">📄 Raghav's Resume</a>
 </p>
 
 <h2>🌐 Connect with Me</h2>
-<p>
-    Feel free to visit my profiles:
-</p>
+<p>Feel free to visit my profiles:</p>
 <ul>
     <li><a href="https://www.linkedin.com/in/raghav-byte/" target="_blank">🔗 LinkedIn</a></li>
     <li><a href="https://github.com/Raghav-byte" target="_blank">🐱 GitHub</a></li>
@@ -32,12 +22,7 @@
     <li><a href="https://www.instagram.com/raghav_shukl/" target="_blank">📸 Instagram</a></li>
 </ul>
 
-<p>
-    If you’d like to get in touch, feel free to email me at <a href="mailto:shuklaraghav321@gmail.com">✉️ shuklaraghav321@gmail.com</a>
-</p>
-
-<p>
-    Have a great day! Cheers! 🎉
-</p>
+<p>If you’d like to get in touch, feel free to email me at <a href="mailto:shuklaraghav321@gmail.com">✉️ shuklaraghav321@gmail.com</a></p>
+<p>Have a great day! Cheers! 🎉</p>
 
 <span id="a">Raghav@Raghav-byte</span>:<span id="b">~</span><span id="c">$</span> exit
