@@ -8,7 +8,7 @@
 <h1>👋 Hey There! I'm Raghav Shukla</h1>
 
 <p>
-    Currently, I'm a Software Engineer at <strong>LetsMobility Software Solutions</strong>, with over <strong>2 years of experience</strong> in technologies like <strong>Java</strong>, <strong>Python</strong>, and <strong>MongoDB</strong>.
+    Currently, I'm a Software Engineer at <strong>LetsMobility Software Solutions</strong>, with over <strong>2 years of experience</strong> in technologies like <strong>Java</strong>, <strong>Springboot</strong>, <strong>Python</strong>, <strong>Django</strong> and <strong>MongoDB</strong>.
 </p>
 
 <p>
